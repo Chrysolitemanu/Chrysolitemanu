@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Chrysolitemanu/Chrysolitemanu/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Emmanuel Wangeci</h1>
 <h3 align="center">A passionate Software developer from Kenya</h3>
 
